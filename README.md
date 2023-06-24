@@ -47,7 +47,8 @@ Install my-project with npm
 ##Project Video
 
 
-[![Thumbnail]([https://raw.githubusercontent.com/your-username/your-repository/main/thumbnail.jpg](https://github.com/Ronnie-Ahmed/NFTMARKETPLACE/assets/68500792/474591b1-7d85-4b3f-82b8-e62cb0e3fa0a))]([URL_OF_VIDEO](https://github.com/Ronnie-Ahmed/NFTMARKETPLACE/assets/68500792/9a4d77ce-084c-4a90-9d4a-c028a186a50f))
+[![Thumbnail](https://github.com/Ronnie-Ahmed/NFTMARKETPLACE/assets/68500792/474591b1-7d85-4b3f-82b8-e62cb0e3fa0a)](https://github.com/Ronnie-Ahmed/NFTMARKETPLACE/assets/68500792/9a4d77ce-084c-4a90-9d4a-c028a186a50f)
+
 
 
 
