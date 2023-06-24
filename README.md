@@ -1,70 +1,74 @@
-# Getting Started with Create React App
+# NFTMarketPlace
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The NFT Marketplace I developed is a game-changer for artists, creators, and collectors alike. It serves as a vibrant hub where individuals can seamlessly discover, buy, and sell unique digital assets, leveraging the power of non-fungible tokens (NFTs).
 
-## Available Scripts
+Throughout this exhilarating journey, I had the privilege to work with an exceptional stack of technologies and tools, including Hardhat, Thirdweb, Javascript, Infura IPFS, React.js, Tailwind CSS, HTML, Solidity, and Ethers.js.
 
-In the project directory, you can run:
+Hardhat played a pivotal role in the smart contract development process, providing a robust development environment and a comprehensive testing framework for Ethereum. With its extensive capabilities, I was able to ensure the reliability and security of our smart contracts.
 
-### `npm start`
+Working with Thirdweb opened up a realm of possibilities for me. It enabled me to harness decentralized web technologies and build a platform that champions transparency, decentralization, and user empowerment.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The front end of the NFT Marketplace was crafted using React.js, a powerful JavaScript library that facilitated the creation of an engaging and dynamic user interface. By leveraging React.js, I ensured a seamless user experience that captivates and delights our platform's visitors.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Author
 
-### `npm test`
+- [@Ronnie Ahmed_Github](https://www.github.com/Ronnie-Ahmed)
+- [@Ronnie Ahmed_Portfolio](https://portfolio-fl2l.vercel.app/)
+- [@Ronnie Ahmed Linkdin](https://www.linkedin.com/in/ronnie-ahmed-3bb290271/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Tech Stack
 
-### `npm run build`
+**Frontend/Backend:** React, TailwindCSS, HTML, Solidity, Ethers.js, Thirdweb, Hardhat
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Installation
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Install my-project with npm
 
-### `npm run eject`
+**Frontend:** [@Frontend](https://github.com/Ronnie-Ahmed/NFTMARKETPLACE)
+**Backend:** [@Backend](https://github.com/Ronnie-Ahmed/NFTMAREKTPLACE_Backend)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```bash
+  npm install backend
+  git clone git@github.com:Ronnie-Ahmed/NFTMAREKTPLACE_Backend.git
+  cd NFTMAREKTPLACE_Backend
+  yarn build
+  yarn deploy
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+  npm install frontend
+  git clone git@github.com:Ronnie-Ahmed/NFTMARKETPLACE.git
+  cd NFTMARKETPLACE
+  npm install
+  npm run start
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+##Project Video
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+[![Thumbnail]![Screenshot 2023-06-24 234455](https://github.com/Ronnie-Ahmed/NFTMARKETPLACE/assets/68500792/6619e5db-5134-4d17-b7fd-d421ec007889)
+](https://github.com/Ronnie-Ahmed/NFTMARKETPLACE/assets/68500792/9a4d77ce-084c-4a90-9d4a-c028a186a50f)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+##Screen Shoots
+![Screenshot 2023-06-24 234455](https://github.com/Ronnie-Ahmed/NFTMARKETPLACE/assets/68500792/474591b1-7d85-4b3f-82b8-e62cb0e3fa0a)
+![2](https://github.com/Ronnie-Ahmed/NFTMARKETPLACE/assets/68500792/70f25b45-7d70-411e-933a-6325a47f7d5d)
+![3](https://github.com/Ronnie-Ahmed/NFTMARKETPLACE/assets/68500792/9b8bc6d3-facf-413d-8fcd-e345f04d7c89)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![4](https://github.com/Ronnie-Ahmed/NFTMARKETPLACE/assets/68500792/58e4519e-4452-4e9f-a287-19980e1f40bf)
 
-### Analyzing the Bundle Size
+![6](https://github.com/Ronnie-Ahmed/NFTMARKETPLACE/assets/68500792/cfa35566-302a-45ed-9a1b-f498bf0d3379)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
