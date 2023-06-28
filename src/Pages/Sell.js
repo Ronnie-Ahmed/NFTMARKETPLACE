@@ -126,7 +126,8 @@ export const Sell = () => {
                 alt="loading"
                 className="w-60 h-60 object-cover rounded-full mb-4 transition-transform transform-gpu hover:scale-110"
               />
-              <h1 className="text-3xl font-bold">Connect your Wallet</h1>
+              <h1 className="text-3xl font-bold ">Connect Wallet </h1>
+              <h1 className="text-3xl font-bold ">Use Mumbai Testnet </h1>
             </div>
           </div>
         </div>
