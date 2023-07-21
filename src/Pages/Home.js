@@ -13,6 +13,8 @@ import { deployaddress } from "../Components/constants";
 import { ethers } from "ethers";
 export const Home = () => {
   const status = useConnectionStatus();
+  const id = process.env.REACT_APP_API_URL;
+  console.log(id);
 
   const address = useAddress();
   const { contract } = useContract(deployaddress);
