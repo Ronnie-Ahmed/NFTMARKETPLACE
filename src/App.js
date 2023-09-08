@@ -4,6 +4,7 @@ import { Footer } from "./Components/Footer";
 import { Allroutes } from "./Components/Allroutes";
 import { useEffect } from "react";
 import { useConnectionStatus } from "@thirdweb-dev/react";
+import { ethers } from "ethers";
 
 function App() {
   const status = useConnectionStatus();
